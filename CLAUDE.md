@@ -90,3 +90,23 @@ When using an AI coding assistant:
 
 5\. Update documentation when necessary.
 
+
+
+
+
+\## Development Workflow
+
+
+
+1\. Understand the task before making changes.
+
+2\. Ask the AI assistant for suggestions when useful.
+
+3\. Review AI-generated changes carefully.
+
+4\. Test the changes locally.
+
+5\. Commit completed work using Conventional Commits.
+
+6\. Push the changes to GitHub.
+
